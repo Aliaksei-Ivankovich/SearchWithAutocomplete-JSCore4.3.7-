@@ -76,6 +76,7 @@
     width: 4rem;
     border: none;
     background-color:#E27BEB;
+    cursor: pointer;
 }
 
 .list__close-btn::before {
